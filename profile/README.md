@@ -13,9 +13,7 @@ __*What's on offer:*__
 
 So what are you waiting for? **Join Now!**
 
-
-IP: 185.114.224.24
-Port: 37031
-Or Search: Cable Creative
-
-Discord Server: https://discord.gg/cable-network-702877615136178326
+- IP: 185.114.224.24
+- Port: 37031
+- Or Search: Cable Creative
+- Discord Server: https://discord.gg/cable-network-702877615136178326
